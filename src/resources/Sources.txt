@@ -7,4 +7,4 @@ https://docs.oracle.com/javase/8/docs/api/java/time/DayOfWeek.html#valueOf-java.
 https://docs.oracle.com/javase/7/docs/api/java/util/GregorianCalendar.html
 http://www.java67.com/2015/08/how-to-load-data-from-csv-file-in-java.html
 
-I also spent around 3 hours on this.
+I also spent around 3-4 hours on this.
