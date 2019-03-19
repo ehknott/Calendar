@@ -63,7 +63,7 @@ public class MVPCalculator implements CalendarCalculate {
     public String printNumMeetings(){
         String res = "";
         for(int i = 0; i < start.size(); i++){
-            res = res+ "Number of meetings from " + start.get(i).getTime().toString() +" to " + end.get(i).getTime().toString() + " on " + day.get(i).toString() + " minus blackout dates: ";
+            res = res+ "Number of meetings from " + start.get(i).getTime().toString() +" to " + end.get(i).getTime().toString() + " on " + day.get(i).toString() + " : ";
             int numMeet = numMeetings(start.get(i), end.get(i), day.get(i));
             res = res + numMeet + "\n";
         }

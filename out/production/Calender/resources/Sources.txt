@@ -1,0 +1,10 @@
+https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html#compare-T-T-
+https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html#sort-java.util.Comparator-
+https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#split(java.lang.String)
+https://docs.oracle.com/javase/8/docs/api/java/io/BufferedReader.html#readLine--
+https://docs.oracle.com/javase/7/docs/api/java/util/Calendar.html#compareTo(java.util.Calendar)
+https://docs.oracle.com/javase/8/docs/api/java/time/DayOfWeek.html#valueOf-java.lang.String-
+https://docs.oracle.com/javase/7/docs/api/java/util/GregorianCalendar.html
+http://www.java67.com/2015/08/how-to-load-data-from-csv-file-in-java.html
+
+I also spent around 3 hours on this.
